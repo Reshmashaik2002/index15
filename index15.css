@@ -1,0 +1,17 @@
+body{
+    background: aqua;
+    text-align:center;
+     padding: 150px;
+     font-size: 40px;
+
+}
+button{
+    background-color:white;
+    padding: 10px;
+}
+table{
+    padding: 10px;
+    margin-left: 510px;
+    font-size: 10px;
+    margin-bottom: 50px;
+}
